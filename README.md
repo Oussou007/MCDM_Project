@@ -8,7 +8,7 @@ This project aims to develop a Decision Support System (DSS) for ranking 150 NBA
 ## Key Features
 
 *   **Data Source:** NBA player statistics from the 2022-23 season.
-*   **Criteria:** 7 key performance indicators are used, including points (pts), rebounds (reb), assists (ast), free throws made (ftm), 3-pointers made (fg3m), net rating, and usage percentage (usg_pct).
+*   **Criteria:** Up to 7 key performance indicators are used, including points (pts), rebounds (reb), assists (ast), free throws made (ftm), 3-pointers made (fg3m), net rating, and usage percentage (usg_pct).
 *   **Weighting Methods:**
     *   Analytic Hierarchy Process (AHP): Subjective weighting based on pairwise comparisons of criteria.
     *   Entropy: Objective weighting based on the information content of each criterion.
