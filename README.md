@@ -31,6 +31,7 @@ This project aims to develop a Decision Support System (DSS) for ranking 150 NBA
 The project identifies the top 10 NBA players based on each MCDM method and provides a comparative analysis of their rankings. 
 
 A visualization of the TOPSIS ranking is also included.
+
 ![Top 10 NBA Players Ranking (TOPSIS)](/nba_player_rankings_topsis.png)
 
 ## Usage
