@@ -55,3 +55,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 ## License
 
 [Specify your project license here]
+
+
+![Top 10 NBA Players Ranking (TOPSIS)](/nba_player_rankings_topsis.png)
