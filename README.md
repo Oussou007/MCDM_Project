@@ -1,5 +1,5 @@
 # MCDM
-Multi Criteria Decision-Making and Analysis for Intelligent Systems
+Multi-Criteria Decision Making and Analysis for Intelligent Systems
 
 # NBA Player Ranking Decision Support System (DSS)
 
