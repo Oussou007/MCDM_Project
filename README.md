@@ -18,7 +18,7 @@ Multi-Criteria Decision Making and Analysis for Intelligent Systems
 
 
 
-This project aims to develop a Decision Support System (DSS) for ranking 150 NBA players from the 2022-23 season based on multiple criteria. The system utilizes two weighting methods (AHP and Entropy) and four Multi-Criteria Decision Making (MCDM) methods (TOPSIS, WASPAS, WSM, WPM) to provide a comprehensive evaluation of player performance.
+This project aims to develop a Decision Support System (DSS) for ranking 150 NBA players from the 2022-23 season based on multiple criteria. The system utilizes two weighting methods (AHP and Entropy) and four Multi-Criteria Decision Making (MCDM) methods (TOPSIS, WASPASS, WSM, WPM) to provide a comprehensive evaluation of player performance.
 
 
 
@@ -62,7 +62,7 @@ This project aims to develop a Decision Support System (DSS) for ranking 150 NBA
 
 
 
-    *   WASPAS (Weighted Aggregated Sum Product Assessment)
+    *   WASPASS (Weighted Aggregated Sum Product Assessment)
 
 
 
@@ -134,7 +134,7 @@ A visualization of the TOPSIS ranking is also included.
 
 
 
-![Top 10 NBA Players Ranking (TOPSIS)](/nba_player_rankings_topsis_day.png)
+![Top 10 NBA Players Ranking (TOPSIS)](/nba_player_rankings_topsis.png)
 
 
 
@@ -170,7 +170,7 @@ A visualization of the TOPSIS ranking is also included.
 
 
 
-    *   `waspas_ranking.py`
+    *   `waspass_ranking.py`
 
 
 
