@@ -134,7 +134,7 @@ A visualization of the TOPSIS ranking is also included.
 
 
 
-![Top 10 NBA Players Ranking (TOPSIS)](/nba_player_rankings_topsis.png)
+![Top 10 NBA Players Ranking (TOPSIS)](/nba_player_rankings_topsis_day.png)
 
 
 
